@@ -55,3 +55,19 @@ footer{
    
 }
 
+@media (max-width:500px){
+   .navbar{width: 100%}
+   }
+   footer{
+    width: 100%;
+   }
+.todoListMain .header input{
+    width: 40%;
+
+}
+.todoListMain .header button{
+width: 10%;
+}
+.todoListMain .theList{
+width: 50%;
+}
